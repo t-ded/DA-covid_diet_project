@@ -52,5 +52,4 @@
 - Transform the variables, find our impactful features and try to re-build some ML models
 - Obtain additional information about the countries, such as health care quality etc. in order to find some deeper patterns
 - Consult the features with a nutrition specialist and work together towards a relevant research
-
 - Note: This analysis would be far more effective overall if we managed to obtain data about some individual samples from the countries (e.g. 100 people from the general population for each country) and not only the average percentages
